@@ -1,4 +1,5 @@
 
+num_history = []
 edit_lotto_num = []
 bonus_num = []
 
